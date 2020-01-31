@@ -1,0 +1,39 @@
+ebook_metadata:
+  title: ༄༅༅། །བསྐྱེད་རྫོགས་ཀྱི་གོ་དོན་སེམས་དོན་དངོས་གཞིའི་ཉམས་ལེན་བསྐྱེད་རིམ་སྤྱིའི་རྣམ་བཞག་ངེས་དོན་སྙིང་པོའི་གནད་མདོར་བསྡུས་བདེན་གཉིས་གློག་སྒྲོན་ཕུར་པ་ཡང་གསང་སྤུ་གྲིའི་རྣམ་བཤད་སྙན་བརྒྱུད་ཡང་ཕུར་སྦྲགས་མའི་ཟབ་ཏིག་གི་རྣམ་བཤད་གྲོ་ལོད་གསང་སྒྲུབ་དམིགས་རིམ་ཟིན་བྲིས་བཅས།
+    །
+  authors:
+  - མཛད་པ་པོ། ཞེ་ཆེན་རྒྱལ་ཚབ་འགྱུར་མེད་པདྨ་རྣམ་རྒྱལ།
+  sku: SHE-SG-09
+  layers:
+  - book_title
+  - author
+  - chapter_title
+  - quotation
+  - sabche
+  - yigchung
+web_metadata:
+  title:
+    en: Various Texts Concerning the Practice of the Creation Stage, Mind, and Dzogchen
+    bo: སྐྱེད་རྫོགས་སེམས་དོན་སོགས་ཁྲིད་ཡིག་སྣ་ཚོགས།༼ཏ༽
+  collection:
+    en: Shechen Gyaltsab Series–  Book 9
+    bo: ཞེ་ཆེན་རྒྱལ་ཚབ་གསུང་འབུམ།–  དེབ། ༩
+  author:
+    en: Shechen Gyaltsap Gyurme Pema Namgyal
+    bo: ཞེ་ཆེན་རྒྱལ་ཚབ་འགྱུར་མེད་པདྨ་རྣམ་རྒྱལ།
+  pusblisher:
+    en: Shechen Publications
+    bo: ཞེ་ཆེན་བསྟན་གཉིས་དར་རྒྱས་གླིང།
+  sku: SHE-SG-09
+  category:
+    en: Dzogchen
+    bo: རྫོགས་ཆེན།
+  org:
+    bo: Timeless Treasuries
+    en: མཐའ་ཡས་དཔེ་མཛོད།
+  website: http://dharmacloud.tsadra.org
+  aquisition_data: '2019-07-18'
+  filename: SHE-SG-09.epub
+  description:
+    en: ''
+    bo: ''
